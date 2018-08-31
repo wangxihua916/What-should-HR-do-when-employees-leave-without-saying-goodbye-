@@ -1,13 +1,12 @@
-# What-should-HR-do-when-employees-leave-without-saying-goodbye-
-员工不辞而别，HR 该怎么办？
-对于 HR 来说，员工离职完全是职场上的“常规操作”，按照标准流程处理，基本不会有什么问题。
+# What-should-HR-do-when-employees-leave-without-saying-goodbye
 
- 
+### 员工不辞而别，HR 该怎么办？
+
+对于 HR 来说，员工离职完全是职场上的“常规操作”，按照标准流程处理，基本不会有什么问题。
 
 但是有一种离职却让 HR 感到头大，那就是：
 
  
-
 自！
 
 动！
@@ -17,14 +16,8 @@
 职！
 
 
-
-
-
-
-
 自动离职员工的状态通常都是：
 
- 
 
 我走了，
 
